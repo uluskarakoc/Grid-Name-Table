@@ -1,3 +1,3 @@
 # Grid-Name-Table
-## SImple grid Exercise
+## Simple grid Exercise
  
